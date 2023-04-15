@@ -1,0 +1,38 @@
+Como instalar o Git?
+Apenas acessando o link: https://git-scm.com/downloads
+
+Diferença entre Git e Github:
+
+GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup. É lá que você provavelmente vai ter seu repositório e usar no dia a dia.
+
+Quais os principais comandos do Git?
+
+1. Git clone
+2. Git branch
+3. Git checkout
+4. Git status
+5. Git add
+6. Git commit
+7. Git push
+8. Git pull
+
+Para quê serve o git pull?
+O comando git pull é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.
+
+Para quê serve o git branch?
+O comando git branch permite criar, listar, renomear e excluir ramificações.
+
+Para quê serve o git checkout?
+O comando git checkout permite navegar entre ramificações criadas pelo git branch.
+
+Para quê serve o git add?
+O comando git add adiciona uma alteração no diretório ativo à área de staging. Ele diz ao Git que você quer incluir atualizações a um arquivo específico no próximo commit.
+
+Para quê serve o git commit?
+É usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git.
+
+Para quê serve o git status?
+O comando git status exibe as condições do diretório de trabalho e da área de staging. Ele permite que você veja quais alterações foram despreparadas, quais não foram e quais arquivos não estão sendo monitorados pelo Git.
+
+Qual a diferença entre git pull e o git push !?
+A tradução de pull do inglês para o português é puxar, então o git pull puxa, traz as alterações de um repositório remoto para o local. Já push é empurrar, então o git push empurra, leva as alterações do repositório local para o remoto.
